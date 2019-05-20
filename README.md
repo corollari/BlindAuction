@@ -1,2 +1,2 @@
-# blindAuction
-White rooom implementation of ERC 1815
+# BlindAuction
+White room implementation of ERC 1815
